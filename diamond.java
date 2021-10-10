@@ -1,5 +1,20 @@
-package patterns;
 
+/* Program to print the below pattern
+
+* * * * * * * * * 
+* * * *   * * * *
+* * *       * * *
+* *           * *
+*               *
+*               *
+* *           * *
+* * *       * * *
+* * * *   * * * *
+* * * * * * * * * 
+	
+	
+*/	
+	
 public class Barfi {
 
 	public static void main(String[] args) {
